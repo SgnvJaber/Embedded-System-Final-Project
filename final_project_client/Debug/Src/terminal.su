@@ -1,0 +1,2 @@
+terminal.c:16:6:TERMINAL_init	8	static
+terminal.c:27:6:TERMINAL_handleCommand	16	static

@@ -1,0 +1,4 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+timer2.c:7:6:TIM2_IRQHandler	4	static
+timer2.c:14:6:TIMER2_expired	4	static
+timer2.c:23:6:TIMER2_init	8	static

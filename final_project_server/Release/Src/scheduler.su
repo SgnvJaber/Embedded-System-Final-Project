@@ -1,0 +1,4 @@
+scheduler.c:10:6:SCHEDULER_blink	0	static
+scheduler.c:14:6:SCHEDULER_handle	8	static
+scheduler.c:29:6:SCHEDULER_stopBlinking	0	static
+scheduler.c:33:6:SCHEDULER_loop	8	static

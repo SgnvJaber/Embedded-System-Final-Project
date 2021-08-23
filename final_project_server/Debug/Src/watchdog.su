@@ -1,0 +1,2 @@
+watchdog.c:5:6:WATCHDOG_init	4	static
+watchdog.c:21:6:WATCHDOG_pet	4	static

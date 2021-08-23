@@ -1,0 +1,6 @@
+usart1.c:23:6:USART1_commandReceived	0	static
+usart1.c:35:6:USART1_getCommand	16	static
+usart1.c:47:6:USART1_init	0	static
+usart1.c:71:6:USART1_EXTI25_IRQHandler	8	static
+usart1.c:86:6:USART1_printCharacter	0	static
+usart1.c:92:6:USART1_print	0	static

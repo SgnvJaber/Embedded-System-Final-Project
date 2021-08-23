@@ -1,0 +1,4 @@
+core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+button.c:6:6:BUTTON_init	8	static
+button.c:25:6:EXTI15_10_IRQHandler	8	static
+button.c:31:6:BUTTON_switch	8	static

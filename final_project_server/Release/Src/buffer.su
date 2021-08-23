@@ -1,0 +1,5 @@
+buffer.c:11:6:CB_init	0	static
+buffer.c:21:10:CB_read	0	static
+buffer.c:31:6:CB_write	0	static
+buffer.c:42:11:CB_get	0	static
+buffer.c:46:6:CB_isEmpty	0	static

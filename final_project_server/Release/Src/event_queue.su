@@ -1,0 +1,4 @@
+event_queue.c:11:6:EVENT_QUEUE_init	0	static
+event_queue.c:15:6:EVENT_QUEUE_write	0	static
+event_queue.c:19:10:EVENT_QUEUE_read	0	static
+event_queue.c:24:6:EVENT_QUEUE_isEmpty	0	static
